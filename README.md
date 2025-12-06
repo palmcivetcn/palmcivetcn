@@ -17,7 +17,7 @@
 
   <!-- Bilibili -->
   <a href="https://space.bilibili.com/105152431">
-    <img src="https://img.shields.io/badge/Bilibili-东南台-9A00FF?style=flat-square&labelColor=555555">
+    <img src="https://img.shields.io/badge/Bilibili-B站-9A00FF?style=flat-square&labelColor=555555">
   </a>
 
   <!-- Telegram -->
