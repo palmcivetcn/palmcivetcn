@@ -1,7 +1,7 @@
 <!-- 顶部个人介绍（头像可以换成你自己的） -->
 <div align="center">
   <!-- 这里换成你喜欢的头像 / 动图链接 -->
-  <img src="GirlfriendImage.png" width="120" />
+  <img src="GirlfriendImage_circle-small.png" width="120" />
 
 
   
