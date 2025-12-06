@@ -2,8 +2,6 @@
 <div align="center">
   <!-- 这里换成你喜欢的头像 / 动图链接 -->
   <img src="GirlfriendImage_circle-small.png" width="120" />
-
-
   
   <h1>Hi, I'm <code>palmcivetcn</code> 🐾</h1>
   <p>
@@ -27,8 +25,8 @@
     <img src="https://img.shields.io/badge/Telegram-电报-26A5E4?style=flat-square&labelColor=555555">
   </a>
 
-  <!-- Views（这里还是写死 777，你也可以改成别的数字或换成动态计数器） -->
-  <img src="https://img.shields.io/badge/Views-777-007EC6?style=flat-square&labelColor=555555">
+  <!-- Views -->
+  <img src="https://komarev.com/ghpvc/?username=palmcivetcn&style=flat-square&label=Views&color=007EC6&labelColor=555555" />
 
 </p>
 
