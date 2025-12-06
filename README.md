@@ -1,16 +1,13 @@
 <p align="center">
 
-  <!-- Bilibili -->
-  <a href="https://space.bilibili.com/105152431" target="_blank">
-    <img src="https://img.shields.io/badge/Bilibili-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white">
+  <a href="https://space.bilibili.com/105152431">
+    <img src="https://img.shields.io/badge/Bilibili-B站-9A00FF?style=flat-square&labelColor=555555">
   </a>
 
-  <!-- Telegram -->
-  <a href="https://t.me/palmcivetcn" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  <a href="https://t.me/palmcivetcn">
+    <img src="https://img.shields.io/badge/Telegram-电报-26A5E4?style=flat-square&labelColor=555555">
   </a>
 
-  <!-- GitHub 访问计数器 -->
-  <img src="https://komarev.com/ghpvc/?username=palmcivetcn&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Views-777-007EC6?style=flat-square&labelColor=555555">
 
 </p>
