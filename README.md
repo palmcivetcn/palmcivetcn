@@ -1,7 +1,9 @@
 <!-- 顶部个人介绍（头像可以换成你自己的） -->
 <div align="center">
   <!-- 这里换成你喜欢的头像 / 动图链接 -->
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" />
+  <img src="GirlfriendImage.png" width="120" />
+
+
   
   <h1>Hi, I'm <code>palmcivetcn</code> 🐾</h1>
   <p>
