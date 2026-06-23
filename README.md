@@ -1,7 +1,5 @@
 <!-- 顶部个人介绍 -->
 <div align="center">
-  <!-- 头像 -->
-  <img src="GirlfriendImage_circle-small.png" width="120" />
 
   <h1>Hi, I'm <code>palmcivetcn</code> 🐾</h1>
   <p>
