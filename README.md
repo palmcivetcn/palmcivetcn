@@ -1,26 +1,58 @@
-<!-- 顶部个人介绍 -->
 <div align="center">
 
-  <h1>Hi, I'm <code>palmcivetcn</code> 🐾</h1>
-  <p>
-    一个正在修炼中的开发者<br/>
-    喜欢折腾各种有意思的东西
-  </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050816,45:4c1d95,100:0891b2&text=palmcivetcn&fontColor=e9d5ff&fontSize=58&fontAlignY=38&desc=Build%20%E2%80%A2%20Explore%20%E2%80%A2%20Create&descAlignY=59&descSize=18&animation=fadeIn" />
 
-  <!-- 社交按钮一排 -->
-  <a href="https://space.bilibili.com/105152431">
-    <img src="https://img.shields.io/badge/Bilibili-B站-9A00FF?style=flat-square&labelColor=555555" />
-  </a>
-  <a href="https://t.me/palmcivetcn">
-    <img src="https://img.shields.io/badge/Telegram-电报-26A5E4?style=flat-square&labelColor=555555" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=palmcivetcn&style=flat-square&label=Views&color=007EC6&labelColor=555555" />
+### `Developer / Explorer / Builder` 🐾
+
+正在修炼中的开发者，喜欢折腾有意思的技术与工具。  
+在代码、系统与新想法之间持续探索。
+
+<p>
+  <a href="https://space.bilibili.com/105152431"><img src="https://img.shields.io/badge/Bilibili-9A00FF?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+  <a href="https://t.me/palmcivetcn"><img src="https://img.shields.io/badge/Telegram-0891B2?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=palmcivetcn&style=for-the-badge&label=PROFILE+VIEWS&color=7C3AED&labelColor=111827" />
+</p>
+
 </div>
 
 ---
 
-<!-- GitHub Stats + 语言卡片并排 -->
+## ⚡ Tech Matrix
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=22D3EE)
+![Java](https://img.shields.io/badge/Java-0B1020?style=for-the-badge&logo=openjdk&logoColor=C084FC)
+![Kotlin](https://img.shields.io/badge/Kotlin-0B1020?style=for-the-badge&logo=kotlin&logoColor=A855F7)
+![Android](https://img.shields.io/badge/Android-0B1020?style=for-the-badge&logo=android&logoColor=34D399)
+![Rust](https://img.shields.io/badge/Rust-0B1020?style=for-the-badge&logo=rust&logoColor=F97316)
+![Git](https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=F43F5E)
+![Linux](https://img.shields.io/badge/Linux-0B1020?style=for-the-badge&logo=linux&logoColor=FACC15)
+![Vercel](https://img.shields.io/badge/Vercel-0B1020?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+
+</div>
+
+## 📡 GitHub Telemetry
+
 <p align="center">
-  <a href="https://github.com/palmcivetcn"><img height="220" src="https://github-readme-stats-six-neon-96.vercel.app/api?username=palmcivetcn&show_icons=true&theme=midnight-purple&ring_color=bf91f3&title_color=bf91f3&icon_color=bf91f3&text_color=ffffff&border_color=bf91f3&bg_color=000000&number_format=short&cache_seconds=172800&v=5" /></a>
-  <a href="https://github.com/palmcivetcn?tab=repositories"><img height="220" src="https://github-readme-stats-six-neon-96.vercel.app/api/top-langs/?username=palmcivetcn&layout=donut&theme=midnight-purple&bg_color=000000&title_color=bf91f3&text_color=ffffff&border_color=bf91f3&langs_count=6&cache_seconds=864000&v=5" /></a>
+  <a href="https://github.com/palmcivetcn"><img width="49%" src="https://github-readme-stats-six-neon-96.vercel.app/api?username=palmcivetcn&show_icons=true&hide=contribs&line_height=34&card_width=450&title_color=c084fc&ring_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12&number_format=short&cache_seconds=172800&v=6" /></a>
+  <a href="https://github.com/palmcivetcn?tab=repositories"><img width="49%" src="https://github-readme-stats-six-neon-96.vercel.app/api/top-langs/?username=palmcivetcn&layout=donut&card_width=400&title_color=c084fc&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12&langs_count=5&cache_seconds=864000&v=6" /></a>
 </p>
+
+## 🧩 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/palmcivetcn/ChatGPT_Exporter"><img width="49%" src="https://github-readme-stats-six-neon-96.vercel.app/api/pin/?username=palmcivetcn&repo=ChatGPT_Exporter&title_color=c084fc&icon_color=22d3ee&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12&cache_seconds=864000" /></a>
+  <a href="https://github.com/palmcivetcn/A-facial-recognition-management-project-based-on-CNN"><img width="49%" src="https://github-readme-stats-six-neon-96.vercel.app/api/pin/?username=palmcivetcn&repo=A-facial-recognition-management-project-based-on-CNN&title_color=c084fc&icon_color=22d3ee&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12&cache_seconds=864000" /></a>
+</p>
+
+<div align="center">
+
+```text
+SYSTEM STATUS: ONLINE
+CURRENT MODE: KEEP BUILDING
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0891b2,55:4c1d95,100:050816" />
+
+</div>
