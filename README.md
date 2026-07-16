@@ -15,33 +15,29 @@
 
 ---
 
-## ⚡ Tech Matrix
+## ⚡ Core Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=22D3EE)
-![Java](https://img.shields.io/badge/Java-0B1020?style=for-the-badge&logo=openjdk&logoColor=C084FC)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0B1020?style=for-the-badge&logo=kotlin&logoColor=A855F7)
 ![Android](https://img.shields.io/badge/Android-0B1020?style=for-the-badge&logo=android&logoColor=34D399)
+![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=22D3EE)
 ![Rust](https://img.shields.io/badge/Rust-0B1020?style=for-the-badge&logo=rust&logoColor=F97316)
-![Git](https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=F43F5E)
-![Linux](https://img.shields.io/badge/Linux-0B1020?style=for-the-badge&logo=linux&logoColor=FACC15)
-![Vercel](https://img.shields.io/badge/Vercel-0B1020?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 
 </div>
 
 ## 📡 GitHub Telemetry
 
 <p align="center">
-  <a href="https://github.com/palmcivetcn"><img width="49%" src="https://github-readme-stats-six-neon-96.vercel.app/api?username=palmcivetcn&show_icons=true&hide=contribs&line_height=34&card_width=450&title_color=c084fc&ring_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12&number_format=short&cache_seconds=172800&v=6" /></a>
-  <a href="https://github.com/palmcivetcn?tab=repositories"><img width="49%" src="https://github-readme-stats-six-neon-96.vercel.app/api/top-langs/?username=palmcivetcn&layout=donut&card_width=400&title_color=c084fc&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12&langs_count=5&cache_seconds=864000&v=6" /></a>
+  <a href="https://github.com/palmcivetcn"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=palmcivetcn&show_icons=true&hide=contribs&line_height=34&card_width=450&title_color=c084fc&ring_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12&number_format=short" /></a>
+  <a href="https://github.com/palmcivetcn?tab=repositories"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmcivetcn&layout=donut&card_width=400&title_color=c084fc&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12&langs_count=5" /></a>
 </p>
 
 ## 🧩 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/palmcivetcn/ChatGPT_Exporter"><img width="49%" src="https://github-readme-stats-six-neon-96.vercel.app/api/pin/?username=palmcivetcn&repo=ChatGPT_Exporter&title_color=c084fc&icon_color=22d3ee&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12&cache_seconds=864000" /></a>
-  <a href="https://github.com/palmcivetcn/A-facial-recognition-management-project-based-on-CNN"><img width="49%" src="https://github-readme-stats-six-neon-96.vercel.app/api/pin/?username=palmcivetcn&repo=A-facial-recognition-management-project-based-on-CNN&title_color=c084fc&icon_color=22d3ee&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12&cache_seconds=864000" /></a>
+  <a href="https://github.com/palmcivetcn/ChatGPT_Exporter"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=palmcivetcn&repo=ChatGPT_Exporter&title_color=c084fc&icon_color=22d3ee&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12" /></a>
+  <a href="https://github.com/palmcivetcn/A-facial-recognition-management-project-based-on-CNN"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=palmcivetcn&repo=A-facial-recognition-management-project-based-on-CNN&title_color=c084fc&icon_color=22d3ee&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12" /></a>
 </p>
 
 <div align="center">
