@@ -25,14 +25,14 @@
   <a href="https://github.com/palmcivetcn">
     <img
       height="180"
-      src="https://github-readme-stats-chi-three-83.vercel.app/api?username=palmcivetcn&show_icons=true&theme=midnight-purple&ring_color=bf91f3&title_color=bf91f3&icon_color=bf91f3&text_color=ffffff&border_color=bf91f3&bg_color=000000&number_format=short&cache_seconds=86400&v=1"
+      src="https://palmcivetcn-readme-stats.vercel.app/api/stats?username=palmcivetcn&show_icons=true&theme=midnight-purple&ring_color=bf91f3&title_color=bf91f3&icon_color=bf91f3&text_color=ffffff&border_color=bf91f3&bg_color=000000&number_format=short&cache_seconds=86400&v=2"
     />
   </a>
 
   <a href="https://github.com/palmcivetcn?tab=repositories">
     <img
       height="180"
-      src="https://github-readme-stats-chi-three-83.vercel.app/api/top-langs/?username=palmcivetcn&layout=donut&theme=midnight-purple&bg_color=000000&title_color=bf91f3&text_color=ffffff&border_color=bf91f3&langs_count=6&cache_seconds=86400&v=1"
+      src="https://palmcivetcn-readme-stats.vercel.app/api/top-langs?username=palmcivetcn&layout=donut&theme=midnight-purple&bg_color=000000&title_color=bf91f3&text_color=ffffff&border_color=bf91f3&langs_count=6&cache_seconds=86400&v=2"
     />
   </a>
 
