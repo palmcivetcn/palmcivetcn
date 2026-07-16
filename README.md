@@ -21,6 +21,6 @@
 
 <!-- GitHub Stats + 语言卡片并排 -->
 <p align="center">
-  <a href="https://github.com/palmcivetcn"><img width="49%" src="https://palmcivetcn-readme-stats.vercel.app/api/stats?username=palmcivetcn&show_icons=true&theme=midnight-purple&ring_color=bf91f3&title_color=bf91f3&icon_color=bf91f3&text_color=ffffff&border_color=bf91f3&bg_color=000000&number_format=short&cache_seconds=86400&v=3" /></a>
-  <a href="https://github.com/palmcivetcn?tab=repositories"><img width="49%" src="https://palmcivetcn-readme-stats.vercel.app/api/top-langs?username=palmcivetcn&layout=donut&theme=midnight-purple&bg_color=000000&title_color=bf91f3&text_color=ffffff&border_color=bf91f3&langs_count=6&cache_seconds=86400&v=3" /></a>
+  <a href="https://github.com/palmcivetcn"><img width="49%" src="https://github-readme-stats-six-neon-96.vercel.app/api?username=palmcivetcn&show_icons=true&theme=midnight-purple&ring_color=bf91f3&title_color=bf91f3&icon_color=bf91f3&text_color=ffffff&border_color=bf91f3&bg_color=000000&number_format=short&cache_seconds=172800&v=4" /></a>
+  <a href="https://github.com/palmcivetcn?tab=repositories"><img width="49%" src="https://github-readme-stats-six-neon-96.vercel.app/api/top-langs/?username=palmcivetcn&layout=donut&theme=midnight-purple&bg_color=000000&title_color=bf91f3&text_color=ffffff&border_color=bf91f3&langs_count=6&cache_seconds=864000&v=4" /></a>
 </p>
