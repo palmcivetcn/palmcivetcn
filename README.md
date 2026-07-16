@@ -2,10 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050816,45:4c1d95,100:0891b2&text=palmcivetcn&fontColor=e9d5ff&fontSize=58&fontAlignY=38&desc=Build%20%E2%80%A2%20Explore%20%E2%80%A2%20Create&descAlignY=59&descSize=18&animation=fadeIn" />
 
-### `Developer / Explorer / Builder` 🐾
-
 正在修炼中的开发者，喜欢折腾有意思的技术与工具。  
-在代码、系统与新想法之间持续探索。
+在代码、系统与新想法之间持续探索🐾
 
 <p>
   <a href="https://space.bilibili.com/105152431"><img src="https://img.shields.io/badge/Bilibili-9A00FF?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
