@@ -14,18 +14,7 @@
 </div>
 
 
-## ⚡ Core Stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-0B1020?style=for-the-badge&logo=openjdk&logoColor=F97316)
-![Kotlin](https://img.shields.io/badge/Kotlin-0B1020?style=for-the-badge&logo=kotlin&logoColor=A855F7)
-![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=22D3EE)
-
-
-</div>
-
-## 📡 GitHub Telemetry
+##  GitHub Telemetry
 
 <p align="center">
   <a href="https://github.com/palmcivetcn"><img width="49%" src="https://github-readme-stats-six-neon-96.vercel.app/api?username=palmcivetcn&show_icons=true&hide=contribs&line_height=34&card_width=450&title_color=c084fc&ring_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12&number_format=short" /></a>
