@@ -19,7 +19,6 @@
 
 <div align="center">
 
-![Android](https://img.shields.io/badge/Android-0B1020?style=for-the-badge&logo=android&logoColor=34D399)
 ![Java](https://img.shields.io/badge/Java-0B1020?style=for-the-badge&logo=openjdk&logoColor=F97316)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0B1020?style=for-the-badge&logo=kotlin&logoColor=A855F7)
 ![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=22D3EE)
