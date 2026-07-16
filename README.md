@@ -42,10 +42,6 @@
 
 <div align="center">
 
-```text
-SYSTEM STATUS: ONLINE
-CURRENT MODE: KEEP BUILDING
-```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0891b2,55:4c1d95,100:050816" />
 
