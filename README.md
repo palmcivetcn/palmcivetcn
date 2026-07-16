@@ -22,15 +22,15 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0B1020?style=for-the-badge&logo=kotlin&logoColor=A855F7)
 ![Android](https://img.shields.io/badge/Android-0B1020?style=for-the-badge&logo=android&logoColor=34D399)
 ![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=22D3EE)
-![Rust](https://img.shields.io/badge/Rust-0B1020?style=for-the-badge&logo=rust&logoColor=F97316)
+![Java](https://img.shields.io/badge/Java-0B1020?style=for-the-badge&logo=openjdk&logoColor=F97316)
 
 </div>
 
 ## 📡 GitHub Telemetry
 
 <p align="center">
-  <a href="https://github.com/palmcivetcn"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=palmcivetcn&show_icons=true&hide=contribs&line_height=34&card_width=450&title_color=c084fc&ring_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12&number_format=short" /></a>
-  <a href="https://github.com/palmcivetcn?tab=repositories"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmcivetcn&layout=donut&card_width=400&title_color=c084fc&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12&langs_count=5" /></a>
+  <a href="https://github.com/palmcivetcn"><img width="49%" src="https://github-readme-stats-six-neon-96.vercel.app/api?username=palmcivetcn&show_icons=true&hide=contribs&line_height=34&card_width=450&title_color=c084fc&ring_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12&number_format=short" /></a>
+  <a href="https://github.com/palmcivetcn?tab=repositories"><img width="49%" src="https://github-readme-stats-six-neon-96.vercel.app/api/top-langs/?username=palmcivetcn&layout=donut&card_width=400&title_color=c084fc&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12&langs_count=5" /></a>
 </p>
 
 ## 🧩 Featured Projects
