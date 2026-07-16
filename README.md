@@ -33,12 +33,6 @@
   <a href="https://github.com/palmcivetcn?tab=repositories"><img width="49%" src="https://github-readme-stats-six-neon-96.vercel.app/api/top-langs/?username=palmcivetcn&layout=donut&card_width=400&title_color=c084fc&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12&langs_count=5" /></a>
 </p>
 
-## 🧩 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/palmcivetcn/ChatGPT_Exporter"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=palmcivetcn&repo=ChatGPT_Exporter&title_color=c084fc&icon_color=22d3ee&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12" /></a>
-  <a href="https://github.com/palmcivetcn/A-facial-recognition-management-project-based-on-CNN"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=palmcivetcn&repo=A-facial-recognition-management-project-based-on-CNN&title_color=c084fc&icon_color=22d3ee&text_color=e2e8f0&border_color=7c3aed&bg_color=30,050816,0b1020,111827&border_radius=12" /></a>
-</p>
 
 <div align="center">
 
